@@ -1,4 +1,4 @@
-#Rails React Starter Kit
+# Rails React Starter Kit
 
 Here's what you need to get it completely up and running, until I get shell scripts made:
 
